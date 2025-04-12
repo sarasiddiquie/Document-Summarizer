@@ -21,7 +21,6 @@ A simple and powerful **Streamlit web app** that summarizes documents using Natu
 
 ---
 
----
 
 ## 🔧 Setup Instructions
 
