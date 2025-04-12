@@ -1,0 +1,9 @@
+Classic Epidemic Routing in Delay-Tolerant Networks (DTN) delivers
+high message delivery rates; however, it incurs high overhead and buffer overflow, making its effectiveness compromised in dynamic scenarios like disaster relief, remote sensing, and mobile ad hoc networks. In this paper, we introduce the
+Epidemic-PF Router, a hybrid protocol that efficiently improves Epidemic Routing
+by combining Probabilistic Forwarding and adaptive buffer management. Dynamically tuning forwarding probabilities based on network density, message hop count,
+and buffer usage, this approach optimizes message spreading while substantially
+reducing congestion. In simulations performed using the ONE Simulator, we show
+that the Epidemic-PF protocol substantially reduces overhead, improves resource efficiency, and maintains high delivery reliability, closely approximating classic Epidemic Routing while only experiencing a small increase in latency. The protocol
+encourages a more controlled and scalable message spreading strategy, making it
+particularly well-suited to a wide range of DTN applications
