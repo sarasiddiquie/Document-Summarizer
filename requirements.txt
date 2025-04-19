@@ -1,4 +1,0 @@
-streamlit
-transformers
-torch
-pymupdf  # or: pdfplumber
